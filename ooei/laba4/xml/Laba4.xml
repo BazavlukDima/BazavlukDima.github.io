@@ -1,0 +1,197 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<TimeTable>
+	<TMonth>
+		<month>Березень</month>
+		<NumWeek>
+			<week>Тиждень 4</week>
+			<TableDay>
+				<weekDay>Понедельник</weekDay>
+				<Data>20.03.2017</Data>
+				<schedule>
+					<LNum>6 пара</LNum>
+					<lessonTime>15:05 - 16:25</lessonTime>
+					<lessonType>Лк</lessonType>
+					<subject>Організація та обробка електронної інформації</subject>
+					<auditory>2503</auditory>
+					<employee>
+						<lastName>Славко</lastName>
+						<firstName>Геннадій</firstName>
+						<middleName>Володимирович</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>7 пара</LNum>
+					<lessonTime>16:35 - 17:55</lessonTime>
+					<lessonType>Лк</lessonType>
+					<subject>Обробка зображень та мультимедіа</subject>
+					<auditory>2513</auditory>
+					<employee>
+						<lastName>Григорова</lastName>
+						<firstName>Тетяна</firstName>
+						<middleName>Альбертівна</middleName>
+					</employee>
+				</schedule>
+			</TableDay>
+			<TableDay>
+				<weekDay>Вторник</weekDay>
+				<Data>21.03.2017</Data>
+				<schedule>
+					<LNum>4 пара</LNum>
+					<lessonTime>12:05 - 13:25</lessonTime>
+					<lessonType>Пз</lessonType>
+					<subject>Кураторский час</subject>
+					<auditory>2501</auditory>
+					<employee>
+						<lastName>Киба</lastName>
+						<firstName>Ірина</firstName>
+						<middleName>Іванівна</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>5 пара</LNum>
+					<lessonTime>13:35 - 14:55</lessonTime>
+					<lessonType>Пз</lessonType>
+					<subject>Математична логіка та теорія алгоритмів</subject>
+					<auditory>2501</auditory>
+					<employee>
+						<lastName>Галаган</lastName>
+						<firstName>Олег</firstName>
+						<middleName>Григорович</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>6 пара</LNum>
+					<lessonTime>15:05 - 16:25</lessonTime>
+					<lessonType>Лб</lessonType>
+					<subject>Обробка зображень та мультимедіа</subject>
+					<auditory>2513</auditory>
+					<employee>
+						<lastName>Григорова</lastName>
+						<firstName>Тетяна</firstName>
+						<middleName>Альбертівна</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>7 пара</LNum>
+					<lessonTime>16:35 - 17:55</lessonTime>
+					<lessonType>Лб</lessonType>
+					<subject>Організація та обробка електронної інформації</subject>
+					<auditory>2503</auditory>
+					<employee>
+						<lastName>Заїка</lastName>
+						<firstName>Антон</firstName>
+						<middleName>Вікторович</middleName>
+					</employee>
+				</schedule>
+			</TableDay>
+			<TableDay>
+				<weekDay>Среда</weekDay>
+				<Data>22.03.2017</Data>
+				<schedule>
+					<LNum>3 пара</LNum>
+					<lessonTime>10:30 - 11:50</lessonTime>
+					<lessonType>Пз</lessonType>
+					<subject>Математичний аналіз</subject>
+					<auditory>1316</auditory>
+					<employee>
+						<lastName>Замарєва</lastName>
+						<firstName>Ольга</firstName>
+						<middleName>Григорівна</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>4 пара</LNum>
+					<lessonTime>12:05 - 13:25</lessonTime>
+					<lessonType>Пз</lessonType>
+					<subject>Математична логіка та теорія алгоритмів</subject>
+					<auditory>2501</auditory>
+					<employee>
+						<lastName>Галаган</lastName>
+						<firstName>Олег</firstName>
+						<middleName>Григорович</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>5 пара</LNum>
+					<lessonTime>13:35 - 14:55</lessonTime>
+					<lessonType>Лк</lessonType>
+					<subject>Диференціальні рівняння</subject>
+					<auditory>2412</auditory>
+					<employee>
+						<lastName>Набок</lastName>
+						<firstName>Тетяна</firstName>
+						<middleName>Андріївна</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>6 пара</LNum>
+					<lessonTime>15:05 - 16:25</lessonTime>
+					<lessonType>Лб</lessonType>
+					<subject>Обробка зображень та мультимедіа</subject>
+					<auditory>2513</auditory>
+					<employee>
+						<lastName>Григорова</lastName>
+						<firstName>Тетяна</firstName>
+						<middleName>Альбертівна</middleName>
+					</employee>
+				</schedule>
+			</TableDay>
+			<TableDay>
+				<weekDay>Четверг</weekDay>
+				<Data>23.03.2017</Data>
+				<schedule>
+					<LNum>2 пара</LNum>
+					<lessonTime>09:00 - 10:20</lessonTime>
+					<lessonType>Пз</lessonType>
+					<subject>Диференціальні рівняння</subject>
+					<auditory>7306</auditory>
+					<employee>
+						<lastName>Скотнікова</lastName>
+						<firstName>Людмила</firstName>
+						<middleName>Миколаївна</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>3 пара</LNum>
+					<lessonTime>10:30 - 11:50</lessonTime>
+					<lessonType>Лб</lessonType>
+					<subject>Математична логіка та теорія алгоритмів</subject>
+					<auditory>2513</auditory>
+					<employee>
+						<lastName>Галаган</lastName>
+						<firstName>Олег</firstName>
+						<middleName>Григорович</middleName>
+					</employee>
+				</schedule>
+			</TableDay>
+			<TableDay>
+				<weekDay>Пятница</weekDay>
+				<Data>24.03.2017</Data>
+				<schedule>
+					<LNum>3 пара</LNum>
+					<lessonTime>10:30 - 11:50</lessonTime>
+					<lessonType>Пз</lessonType>
+					<subject>Основи програмування</subject>
+					<auditory>2513</auditory>
+					<employee>
+						<lastName>Дерієнко</lastName>
+						<firstName>Андрій</firstName>
+						<middleName>Іванович</middleName>
+					</employee>
+				</schedule>
+				<schedule>
+					<LNum>4 пара</LNum>
+					<lessonTime>12:05 - 13:25</lessonTime>
+					<lessonType>Лк</lessonType>
+					<subject>Математичний аналіз</subject>
+					<auditory>3302</auditory>
+					<employee>
+						<lastName>Ляшенко</lastName>
+						<firstName>Віктор</firstName>
+						<middleName>Павлович</middleName>
+					</employee>
+				</schedule>
+			</TableDay>
+		</NumWeek>
+	</TMonth>
+</TimeTable>

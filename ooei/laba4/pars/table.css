@@ -1,0 +1,44 @@
+body {
+    font-family: "Source Sans Pro",Arial,sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.5;
+
+}
+
+.simple-little-table{
+	background: rgba(0, 0, 0, 0.85) none repeat scroll 0 0;
+    border-radius: 7px;
+    margin: 4em auto;
+    max-width: 760px;
+    min-height: 600px;
+    overflow: hidden;
+    position: relative;
+    transition: all 0.5s ease 0s;
+}
+
+table{
+	color: rgba(255, 255, 255, 0.7);
+	margin: 10px 0;
+	text-align: center;
+	border-collapse: separate;
+	border: 1px solid #ddd;
+	border-spacing: 10px;
+	border-radius: 3px;
+	background: #fdfdfd;
+	width: auto;
+}
+caption{
+	color:rgba(0, 0, 0, 0.85);
+	padding: 10px;
+	font-size: 36px;
+}
+
+td,th{
+	border: 1px solid #ddd;
+	border-radius: 3px;
+}
+th{
+	background: #17e7a4;
+	color: #fff;
+}
