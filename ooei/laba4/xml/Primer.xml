@@ -6,7 +6,7 @@
 		<NumWeek>
 			<week>Тиждень 4</week>
 			<TableDay>
-				<weekDay>Понедельник</weekDay>
+				<weekDay>Понеділок</weekDay>
 				<Data>20.03.2017</Data>
 				<schedule>
 					<LNum>6 пара</LNum>
@@ -34,7 +34,7 @@
 				</schedule>
 			</TableDay>
 			<TableDay>
-				<weekDay>Вторник</weekDay>
+				<weekDay>Вівторок</weekDay>
 				<Data>21.03.2017</Data>
 				<schedule>
 					<LNum>4 пара</LNum>
@@ -86,7 +86,7 @@
 				</schedule>
 			</TableDay>
 			<TableDay>
-				<weekDay>Среда</weekDay>
+				<weekDay>Середа</weekDay>
 				<Data>22.03.2017</Data>
 				<schedule>
 					<LNum>3 пара</LNum>
@@ -138,7 +138,7 @@
 				</schedule>
 			</TableDay>
 			<TableDay>
-				<weekDay>Четверг</weekDay>
+				<weekDay>Четвер</weekDay>
 				<Data>23.03.2017</Data>
 				<schedule>
 					<LNum>2 пара</LNum>
@@ -166,7 +166,7 @@
 				</schedule>
 			</TableDay>
 			<TableDay>
-				<weekDay>Пятница</weekDay>
+				<weekDay>П'ятниця</weekDay>
 				<Data>24.03.2017</Data>
 				<schedule>
 					<LNum>3 пара</LNum>
