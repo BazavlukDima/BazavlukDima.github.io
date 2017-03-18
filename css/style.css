@@ -6,6 +6,16 @@
   font-style: normal;
 }
 
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height:100%;
+  z-index: 0;
+  background: #111;
+}
+
 body {
   font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 300;
